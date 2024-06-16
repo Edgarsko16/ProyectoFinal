@@ -1,10 +1,7 @@
 package com.example.proyectofinal;
 
 import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
 import javafx.stage.Stage;
-
 import javax.swing.*;
 import java.io.IOException;
 
